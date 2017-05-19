@@ -10,11 +10,11 @@
       "iconClass": "icon-nodejs",
       "template.openshift.io/long-description": "This template defines resources needed to develop a NodeJS application, including a build configuration and application deployment configuration.  It does not include a database.",
       "template.openshift.io/provider-display-name": "Red Hat, Inc.",
-      "template.openshift.io/documentation-url": "https://github.com/openshift/nodejs-ex",
+      "template.openshift.io/documentation-url": "https://github.com/thefaboulousbot/nodejs-ex",
       "template.openshift.io/support-url": "https://access.redhat.com"
     }
   },
-  "message": "The following service(s) have been created in your project: ${NAME}.\n\nFor more information about using this template, including OpenShift considerations, see https://github.com/openshift/nodejs-ex/blob/master/README.md.",
+  "message": "The following service(s) have been created in your project: ${NAME}.\n\nFor more information about using this template, including OpenShift considerations, see https://github.com/thefaboulousbot/nodejs-ex/blob/master/README.md.",
   "labels": {
     "template": "nodejs-example"
   },
@@ -244,7 +244,7 @@
       "displayName": "Git Repository URL",
       "description": "The URL of the repository with your application source code.",
       "required": true,
-      "value": "https://github.com/openshift/nodejs-ex.git"
+      "value": "https://github.com/thefaboulousbot/nodejs-ex.git"
     },
     {
       "name": "SOURCE_REPOSITORY_REF",
